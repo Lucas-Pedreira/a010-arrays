@@ -1,6 +1,6 @@
 const arrayNumber = [12, 5, 99,]
 const arrayString = ["s", "f", "c"]
-const arrayMist = ["a", 7, true, 20, false, "c"]
+const arrayMist = ["a", 7, true, 20, false, "g"]
  
 //Imprima a quantidade de itens de cada array (utilize um console.log() para cada impressão
 console.log (arrayNumber.length)
